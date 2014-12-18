@@ -1,0 +1,23 @@
+.center {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+}
+
+#hours, #hex {
+  padding: 8px;
+  background: #000;
+  color: #fff;
+  font-family: "Source Sans Pro",sans-serif;
+}
+
+#hex {
+  border-top: 1px dashed #ccc;
+  font-weight: bold;
+}
